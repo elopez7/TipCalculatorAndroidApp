@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="string_bill_amount_hint">Enter the bill amount.:</string>
+    <string name="string_tip_amount_hint">Enter the tip rate.</string>
+    <string name="string_total_amount">Total to pay.</string>
+    <string name="string_final_amount">Total to pay $%.2f.</string>
+    <string name="string_tip_amount">Total tip.</string>
+    <string name="string_tip_final_amount">Total tip $%.2f.</string>
+    <string name="calculate_tip_button_text">Calculate Tip!</string>
+    <string name="string_app_icon_content_description">An icon of a dollar sign</string>
+</resources>
